@@ -1,6 +1,6 @@
 # Head-wise Shareable Attention for Large Language Models
 该仓库简单整理了EMNLP24-Findings论文"Head-wise Shareable Attention for Large Language Models"探索过程中的一些代码，还需进一步完善。<br>
-https://arxiv.org/abs/2402.11819
+ArXiv链接: https://arxiv.org/abs/2402.11819
 
 ## 引用 Citation
 ```
