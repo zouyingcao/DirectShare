@@ -4,11 +4,12 @@ ArXiv链接: https://arxiv.org/abs/2402.11819
 
 ## 引用 Citation
 ```
-@article{cao2024head,
-  title={Head-wise Shareable Attention for Large Language Models},
-  author={Cao, Zouying and Yang, Yifei and Zhao, Hai},
-  journal={arXiv preprint arXiv:2402.11819},
-  year={2024}
+@inproceedings{cao2024head,
+    title = "Head-wise Shareable Attention for Large Language Models",
+    author = "Cao, Zouying and Yang, Yifei and Zhao, Hai",
+    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2024",
+    year = "2024",
+    pages = "2555--2571"
 }
 ```
 
